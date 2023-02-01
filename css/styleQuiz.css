@@ -17,9 +17,9 @@ or 1px = 0.06510vw
 .q-box {
     padding: 0% 7%;
     text-align: center;
-    width: 60%;
-    /* min-width: 400px; */
-    height: 60%;
+    width: 50%;
+    min-width: 370px;
+    height: 50%;
     border-radius: 28px;
     margin: auto;
     margin-top: 20vh;
